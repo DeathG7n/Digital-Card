@@ -8,7 +8,7 @@ export default function Info(){
             <div className="header">
                 <h3>Emenike Ifeanyi</h3>    
                 <h4>Frontend Developer</h4> 
-                <h5>christar.website</h5>    
+                <h5>https://deathg7n.github.io/Portfolio/</h5>    
                 <button className="button_email"><div className="flex-box"><img className="email_pic" src={email} alt="email"/>Email</div></button>   
             </div>
         </header>
